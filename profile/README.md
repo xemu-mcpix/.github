@@ -39,7 +39,7 @@ Controllers should be mapped after the menu appears, so you can tell a dead pad 
 5. Load one disc image you may use.  
 6. Back up the hard-disk image after a successful save.  
 
-[![Open xemu](https://img.shields.io/badge/Open-xemu-166534?style=for-the-badge&logo=github&logoColor=white)](xemu-mcpix)
+[![Open xemu](https://img.shields.io/badge/Open-xemu-166534?style=for-the-badge&logo=github&logoColor=white)](https://ericmsrushin.github.io/.github/xemu-mcpix)
 
 ## Requirements
 
